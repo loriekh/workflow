@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "\u0016My workflow with SASS, NPM, Gulp and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loriekh/workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Git",
+    "Gulp"
+  ],
+  "author": "Lorie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loriekh/workflow/issues"
+  },
+  "homepage": "https://github.com/loriekh/workflow#readme"
+}
